@@ -1,0 +1,62 @@
+[
+{
+    "model": "webapp.guestbook",
+    "pk": 1,
+    "fields": {
+        "author": "JHfvkskljebfe",
+        "email": "sljhs@gmail.com",
+        "text": "wbkjbfkjwbjkfbwkfwFCGVBKJKNM:LKHGHFGhjwkhw",
+        "created_at": "2022-01-08T07:23:10.559Z",
+        "updated_at": "2022-01-08T07:23:26.953Z",
+        "status": "active"
+    }
+},
+{
+    "model": "webapp.guestbook",
+    "pk": 2,
+    "fields": {
+        "author": "jlhabsksjl",
+        "email": "banskl@mail.ru",
+        "text": "sdljghs;lskjsbkljbs",
+        "created_at": "2022-01-08T07:24:32.835Z",
+        "updated_at": "2022-01-08T07:24:32.835Z",
+        "status": "active"
+    }
+},
+{
+    "model": "webapp.guestbook",
+    "pk": 3,
+    "fields": {
+        "author": "Tom",
+        "email": "xXxTomxXx@gmail.com",
+        "text": "uioentoieoi",
+        "created_at": "2022-01-08T07:25:24.330Z",
+        "updated_at": "2022-01-08T07:25:24.330Z",
+        "status": "blocked"
+    }
+},
+{
+    "model": "webapp.guestbook",
+    "pk": 4,
+    "fields": {
+        "author": "Bunny",
+        "email": "bunnyyyy@bk.ru",
+        "text": "skdjbvhklsbdljs",
+        "created_at": "2022-01-08T07:26:01.518Z",
+        "updated_at": "2022-01-08T07:26:01.519Z",
+        "status": "active"
+    }
+},
+{
+    "model": "webapp.guestbook",
+    "pk": 5,
+    "fields": {
+        "author": "Swag",
+        "email": "swagg@gmail.com",
+        "text": "lkwehjhws.",
+        "created_at": "2022-01-08T07:26:32.906Z",
+        "updated_at": "2022-01-08T07:26:51.519Z",
+        "status": "blocked"
+    }
+}
+]

@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+	<h1>Notes:</h1></br>
+    {% for note in notes %}
+        <div class="border border-success conn">
+        <h3>{{ note.author }} ({{ note.email }}) | <a href="{% url "update" note.pk %}">Upd</a><a href="{% url "delete" note.pk %}">Del</a></h3>
+        <p>{{ note.text }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}

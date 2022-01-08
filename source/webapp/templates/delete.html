@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+    <form action="{% url "delete" note.pk %}" method="POST">
+    {% csrf_token %}
+        <h2>Do you really want to delete this note?</h2>
+        <input type="submit" value="Yes">
+    </form>
+    <a href="{% url "index" %}"><input type="submit" value="No"></a>
+{% endblock %}
