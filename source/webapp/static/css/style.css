@@ -1,0 +1,18 @@
+.conn {
+    max-width: 600px;
+    margin: 20px;
+    border-radius: 5%;
+}
+
+.icon {
+    color: black;
+    padding-right: 5px;
+}
+
+.txt {
+    padding-left: 15px;
+}
+
+.h1 {
+    margin-left: 20px;
+}
